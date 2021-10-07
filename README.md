@@ -31,3 +31,18 @@ Unfortunately I could not find a library that makes topic modelling more seamles
 The main algorithm is located in basic_nlp.py.
 Several Jupyter-notebooks used for tests are clearly labeled, as well as 
 a notebook for turning the final results into world clouds.
+
+Conclusion: While the results were acceptable, it seems that topic modelling in 
+anything but trivial texts is still no easy feat. This, in my opionion, is due to the
+fact that topic modelling is not used by individuals as much as by large organizations (likely for advertising purposes).
+Thus, the few open-source projects that there are, are not sufficiently maintained and
+can be very frustating to use. For highly experienced users this will not be a problem, but it certainly
+limits how many users are going to be able to use this technique.
+
+This is in contrast to other tasks which are used by individuals and small organizations
+such as making web-pages. There are dozens of amazing, well-maintained web-frameworks with great documentation
+that just work.
+
+Outlook: Unless a white knight leaks Google's and/or Facebook's NLP libraries,
+we will just have to wait that NLP and especially topic modelling go more
+mainstream for it to become simples and thus more accessible.
