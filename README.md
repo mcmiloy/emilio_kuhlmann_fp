@@ -12,9 +12,12 @@ I chose Harry Potter because I know the book and so could compare the output wit
 It is also a challenge,given how the story is a lot more complicated and entangled than children's books
 often used for such projects.
 
-Strengths: The algorithm produces topics that 
+Strengths: The algorithm produces topics that
+
 a) make sense, comparing it with my knowledge of the text
+
 b) cover a broad spectrum
+
 c) do not overly overlap
 
 Weaknesses: The algorithm breaks down when removing propper nouns.
