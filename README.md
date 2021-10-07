@@ -45,4 +45,4 @@ that just work.
 
 Outlook: Unless a white knight leaks Google's and/or Facebook's NLP libraries,
 we will just have to wait that NLP and especially topic modelling go more
-mainstream for it to become simples and thus more accessible.
+mainstream for it to become simpler and thus more accessible.
